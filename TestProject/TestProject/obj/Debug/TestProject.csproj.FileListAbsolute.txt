@@ -1,0 +1,7 @@
+C:\Users\wnscl\Documents\GitHub\StudyProject_20260916\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\wnscl\Documents\GitHub\StudyProject_20260916\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\wnscl\Documents\GitHub\StudyProject_20260916\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\wnscl\Documents\GitHub\StudyProject_20260916\TestProject\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\wnscl\Documents\GitHub\StudyProject_20260916\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\wnscl\Documents\GitHub\StudyProject_20260916\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\wnscl\Documents\GitHub\StudyProject_20260916\TestProject\TestProject\obj\Debug\TestProject.pdb
